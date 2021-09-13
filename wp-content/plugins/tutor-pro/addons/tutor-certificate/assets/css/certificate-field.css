@@ -1,0 +1,20 @@
+/* Main Style */
+.tutor-certificate-templates-fields {
+	display: flex;
+	flex-wrap: wrap;
+}
+.tutor-certificate-template {
+	max-width: 150px;
+	padding: 5px;
+	margin: 3px;
+	transition: background-color 400ms;
+}
+.tutor-certificate-template.selected-template,
+.tutor-certificate-template:hover {
+	background: #3057d6;
+}
+.tutor-certificate-template img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}

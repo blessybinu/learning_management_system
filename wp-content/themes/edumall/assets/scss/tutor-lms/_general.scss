@@ -1,0 +1,237 @@
+.tutor-container {
+	max-width: 1200px;
+}
+
+a.tutor-btn,
+a.tutor-button,
+.tutor-btn,
+.tutor-button {
+	@include NormalTransition();
+	border-radius: 5px !important;
+	padding: 0 41px;
+	line-height: 50px;
+	justify-content: center;
+}
+
+.single_add_to_cart_button,
+a.tutor-button,
+.tutor-button,
+a.tutor-btn,
+.tutor-btn {
+	padding: 0 31px;
+
+	i {
+		margin: 0 10px 0 0;
+	}
+}
+
+a.tutor-button.bordered-button,
+.tutor-button.bordered-button,
+a.tutor-btn.bordered-btn,
+.tutor-btn.bordered-btn {
+	color: $primary-color;
+	background: #fff;
+	border: 2px solid #eee;
+	line-height: 48px;
+	filter: none !important;
+
+	&:hover {
+		color: #fff;
+		background: $primary-color !important;
+		border: 2px solid $primary-color;
+	}
+}
+
+.tutor-button-xs {
+	height: 40px;
+	line-height: 38px;
+	font-size: 14px !important;
+}
+
+.tutor-gc-blue-button {
+	border-radius: 5px;
+	font-size: 15px;
+	font-weight: 500;
+	padding: 0 20px;
+	height: 52px;
+	line-height: 52px;
+}
+
+.tutor-dropdown-menu {
+	li {
+		margin: 0;
+	}
+}
+
+.tutor-updating-message {
+	&:before {
+		@extend %FontAwesomeRegularImportant;
+		content: '\f3f4' !important;
+		vertical-align: initial;
+		animation: adding-spin 1s linear infinite !important;
+	}
+}
+
+.on-sale {
+	ins .amount {
+		color: #d31819;
+	}
+}
+
+.tutor-price {
+	&.course-free {
+		font-weight: 700;
+
+		.decimals-separator {
+			display: none;
+		}
+	}
+}
+
+.tutor-custom-list-style li {
+	line-height: 26px;
+	margin-bottom: 0;
+
+	&:before {
+		color: $primary-color;
+	}
+}
+
+.tutor-course-badge {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 5px 3px 0;
+	padding: 5px 7px;
+	min-height: 0;
+	color: #fff;
+	text-align: center;
+	font-size: 11px;
+	font-weight: 700;
+	line-height: 1.15;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	border-radius: 2px;
+	min-width: 48px;
+
+	&.hot {
+		background: #d31819;
+	}
+
+	&.onsale {
+		background: #0071dc;
+	}
+
+	&.new {
+		background: #50d7e9;
+	}
+
+	&.free {
+		background: #6cbd7e;
+	}
+
+	&.best-seller {
+		background: #d31819;
+	}
+
+	&.out-of-stock {
+		background: #d31129;
+	}
+}
+
+.tutor-form-group,
+.tutor-option-field {
+	select {
+		background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAELY03+AAAABGdBTUEAALGPC/xhBQAAAFFJREFUCB1tTsERwCAIC9MyhnQMprUJPTw9mweGmACWmQFggGSSQCT02lLUCaayAuTubrcNeNr5TaRAZyhd6A1q2hnkQ8IPKl3G/tyPoHaMfwHyzSNHeemKDAAAAABJRU5ErkJggg==) no-repeat center right 20px;
+	}
+}
+
+.tutor-option-field textarea,
+.tutor-option-field select,
+.tutor-option-field input[type=text],
+.tutor-option-field input[type=email],
+.tutor-option-field input[type=number],
+.tutor-option-field input[type=password],
+.tutor-form-group textarea,
+.tutor-form-group select,
+.tutor-form-group input[type=text],
+.tutor-form-group input[type=email],
+.tutor-form-group input[type=number],
+.tutor-form-group input[type=password] {
+	@include NormalTransition();
+	width: 100%;
+	outline: none;
+	color: $form-text;
+	border: 1px solid $form-border;
+	background-color: $form-background;
+	border-radius: 5px;
+	padding: 3px 20px;
+	min-height: 52px;
+	text-indent: 0;
+	line-height: normal;
+	margin-bottom: 20px;
+}
+
+.tutor-form-group .wp-editor-wrap {
+	margin: 0 0 20px;
+}
+
+.tutor-option-field textarea:focus,
+.tutor-option-field input:not([type=submit]):focus,
+.tutor-form-group textarea:focus,
+.tutor-form-group input:not([type=submit]):focus {
+	color: $form-focus-text;
+	border-color: $form-focus-border;
+	background-color: $form-focus-background;
+}
+
+.tutor-option-field textarea,
+.tutor-form-group textarea {
+	padding: 12px 20px;
+}
+
+.tutor-styled-radio {
+	font-size: 14px;
+	font-weight: $heading-font-weight;
+
+	> span {
+		&:before {
+			background: #fff !important;
+			border: 1px solid #cacaca !important;
+		}
+
+		&:after {
+			position: absolute;
+			top: 50%;
+			margin-top: -5px;
+			left: 4px;
+			content: '';
+			border-radius: 50%;
+			width: 10px;
+			height: 10px;
+			background: $primary-color;
+			transform: scale(0);
+			transition: transform .3s ease;
+		}
+	}
+
+	> input:checked + span::after {
+		transform: scale(1);
+	}
+}
+
+.date-range-input {
+	input {
+		border-radius: 5px !important;
+	}
+}
+
+.plyr__controls {
+	.plyr__control {
+		min-height: 0;
+		height: 32px;
+	}
+}
+
+.plyr__control--overlaid {
+	height: 50px;
+}

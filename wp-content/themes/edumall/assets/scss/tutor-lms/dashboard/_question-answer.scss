@@ -1,0 +1,36 @@
+.dashboard-question-n-answer-table {
+	.question-title {
+		font-size: 14px;
+		line-height: 26px;
+		margin: 0;
+	}
+
+	.questioner-info {
+		display: flex;
+	}
+
+	.tutor-question-avatar {
+		margin: 0 17px 0 0;
+	}
+
+	.questioner-name {
+		font-size: 14px;
+		font-weight: $heading-font-weight;
+		line-height: 26px;
+		color: inherit;
+		margin: 0;
+	}
+
+	.course-title {
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 26px;
+		color: inherit;
+		margin: 0;
+	}
+
+	.question-post-date {
+		font-size: 13px;
+		color: $text-bit-lighten-color;
+	}
+}

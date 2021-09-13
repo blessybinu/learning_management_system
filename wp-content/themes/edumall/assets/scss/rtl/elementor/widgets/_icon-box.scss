@@ -1,0 +1,35 @@
+.rtl .elementor-widget-tm-icon-box {
+	&.edumall-icon-box-style-03 {
+		.tm-icon-box.has-link {
+			.heading {
+				&:after {
+					content: '\f104';
+					right: auto;
+					left: -15px;
+				}
+			}
+		}
+	}
+}
+
+@media (min-width: 768px) {
+	.elementor-widget-tm-icon-box {
+		&.elementor-position-left {
+			.icon-box-wrapper {
+				text-align: right;
+			}
+
+			.edumall-icon-wrap {
+				margin-right: 0;
+				margin-left: 20px;
+			}
+
+			&.edumall-icon-box-style-03 {
+				.edumall-icon-wrap {
+					margin-right: 0;
+					margin-left: 22px;
+				}
+			}
+		}
+	}
+}

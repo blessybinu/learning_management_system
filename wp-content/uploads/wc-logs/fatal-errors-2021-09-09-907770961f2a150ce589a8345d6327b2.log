@@ -1,0 +1,13 @@
+2021-09-09T07:05:50+00:00 CRITICAL Uncaught Error: Class 'Edumall_Course_User' not found in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/tutor/class-tutor.php:79
+Stack trace:
+#0 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/tutor/class-tutor.php(1872): Edumall_Tutor->initialize()
+#1 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/functions.php(82): require_once('/home1/angelsof...')
+#2 /home1/angelsoftwaresol/public_html/lms/wp-settings.php(546): include('/home1/angelsof...')
+#3 /home1/angelsoftwaresol/public_html/lms/wp-config.php(96): require_once('/home1/angelsof...')
+#4 /home1/angelsoftwaresol/public_html/lms/wp-load.php(50): require_once('/home1/angelsof...')
+#5 /home1/angelsoftwaresol/public_html/lms/wp-admin/admin-ajax.php(22): require_once('/home1/angelsof...')
+#6 {main}
+  thrown in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/tutor/class-tutor.php on line 79
+
+2021-09-09T07:12:12+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/tutor/course-user.php on line 181
+

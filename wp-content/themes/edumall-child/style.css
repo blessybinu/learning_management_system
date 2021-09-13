@@ -1,0 +1,100 @@
+/*
+Theme Name: Edumall Child
+Theme URI: https://edumall.thememove.com/
+Author: ThemeMove
+Author URI: https://thememove.com/
+Version: 1.0.0
+Template: edumall
+Text Domain:  edumall-child
+Tags: editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #545454;
+}
+
+.header-category-menu {display: none;}
+.header-search-form {display: none;}
+
+
+
+
+.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1510px;}
+.header-layout-fixed .page-header-inner, .page-header-inner.held {}
+
+.tutor-dashboard-permalinks li {list-style: none;}
+.tutor-dashboard-permalinks li a {display: block;}
+.tutor-dashboard-permalinks li a:hover {background-color: #edf0f9;}
+.tutor-dashboard-header {display: flex; align-items: center;}
+
+.edumall-popup .popup-content {width: 900px;}
+.edumall-popup .popup-content-inner {padding: 30px 30px 30px;}
+.edumall-popup .popup-content-inner .form-group input[type=checkbox] {margin: 0 2px 0 15px;}
+.edumall-popup .popup-content-inner select {color: #9c9c9c;}
+
+
+
+
+.tutor-form-group .mo-openid-app-icons {display: none !important;}
+
+.tutor-form-group .select2-hidden-accessible {}
+.tutor-form-group textarea {}
+.tutor-form-group .select2-selection__rendered {margin: 0px;}
+.tutor-form-group .select2-selection__rendered li {}
+.tutor-form-group .select2-selection__rendered li button {border-radius:0px;top: -10px !important;border: none !important;}
+.tutor-form-group .select2-container {}
+
+#about_new_section .elementor-widget-wrap:hover {
+    background: #fff;
+    box-shadow: 0 10px 50px rgb(0 0 0 / 8%);
+	cursor:pointer;
+}
+#about_new_section .elementor-widget-wrap {
+    padding: 40px 30px 33px;
+    border-radius: 8px;
+}
+.tutrane-package-view {margin-top: 50px; margin-bottom: 50px;}
+.tutrane-package-view .elementor-inner-section .elementor-widget-container {}
+.tutrane-package-view .elementor-inner-section .elementor-widget-container h4 {font-size: 34px; margin: 20px 0 40px 0; line-height: normal;color: #222;}
+
+.tutrane-package-view .in-box .elementor-container .elementor-column .elementor-image-box-wrapper {border: 1px solid #ddd;
+    padding: 25px 15px;  border-radius: 5px;  min-height: 300px;background-color: #26aae1;transition: all 0.3s linear;}
+.tutrane-package-view .in-box .elementor-container .elementor-column .elementor-image-box-wrapper h3 {color: #222;margin: 10px 0 15px 0;
+    line-height: normal;}
+.tutrane-package-view .in-box .elementor-container .elementor-column .elementor-image-box-wrapper .elementor-image-box-description{color:#222;display:none;
+font-size: 16px; line-height: normal;}
+.tutrane-package-view .in-box .elementor-container .elementor-column:nth-child(1) .elementor-image-box-wrapper {background-color: #fff;}
+.tutrane-package-view .in-box .elementor-container .elementor-column:nth-child(2) .elementor-image-box-wrapper {}
+.tutrane-package-view .in-box .elementor-container .elementor-column:nth-child(3) .elementor-image-box-wrapper {background-color: #fff;}
+.tutrane-package-view .in-box .elementor-container .elementor-column .elementor-image-box-wrapper:hover {background-color: #0071DC;}
+.tutrane-package-view .in-box .elementor-container .elementor-column .elementor-image-box-wrapper:hover .elementor-image-box-description {display:block;}
+
+
+.introductory-video-view {margin-top: 30px; margin-bottom: 10px;}
+.introductory-video-view .elementor-inner-section .elementor-widget-container h4 {font-size:34px;margin:20px 0 40px 0;line-height: normal;color: #222;}
+.introductory-video-view .in-box-video {}
+
+
+.our-strengths-view {margin-top: 10px; margin-bottom: 20px;}
+.our-strengths-view .elementor-inner-section .elementor-widget-container h4 {font-size:34px;margin:50px 0 40px 0;line-height: normal;color: #222;}
+.our-strengths-view .strengths-in .elementor-container .elementor-column .elementor-widget-container {border: 1px solid #ddd;
+    padding: 20px 20px; border-radius: 5px; min-height:150px; background-color: #0071DC;margin: 0 0 30px 0;transition: all 0.3s linear;}
+.our-strengths-view .strengths-in .elementor-container .elementor-column .elementor-widget-container:hover {background-color: #26aae1;}
+.our-strengths-view .strengths-in .elementor-container .elementor-column .elementor-widget-container h3 {color: #fff; font-size: 18px;
+    line-height: normal;  font-weight: 100;  margin: 0px;text-transform: capitalize;}
+.our-strengths-view .strengths-in .elementor-container .elementor-column .elementor-widget-container .elementor-icon {color: #fff;font-size: 36px;}
+.our-strengths-view .strengths-in .elementor-container .elementor-column .elementor-widget-container .elementor-icon i {font-weight: 100;}
+
+
+
+
+
+
+
+
+
+
+
+

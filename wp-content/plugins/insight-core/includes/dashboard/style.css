@@ -1,0 +1,85 @@
+.tm-components-recommended-carousel {
+	height: 0;
+	overflow: hidden;
+}
+
+.tm-components-recommended-carousel.slick-slider {
+	height: auto;
+	overflow: auto;
+}
+
+.tm-components-recommended-carousel .item {
+	display: block;
+	width: 100%;
+	position: relative;
+	outline: none;
+}
+
+.tm-components-recommended-carousel .item .info {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 0 40px;
+	height: 40px;
+	line-height: 40px;
+	background-color: rgba(255, 255, 255, .8);
+	color: #222;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.tm-components-recommended-carousel .slick-slider {
+	position: relative;
+}
+
+.tm-components-recommended-carousel .slick-arrow {
+	position: absolute;
+	display: block;
+	bottom: 4px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	overflow: hidden;
+	margin-top: -20px;
+	z-index: 999;
+	padding: 0;
+	font-size: 0;
+	border: none;
+	background-color: transparent;
+	color: #222;
+	outline: none;
+	cursor: pointer;
+	transition: all .35s ease-in-out;
+}
+
+.tm-components-recommended-carousel .slick-arrow:before {
+	font-size: 16px;
+	font-family: Dashicons;
+}
+
+.tm-components-recommended-carousel .slick-prev {
+	left: 12px;
+}
+
+.tm-components-recommended-carousel .slick-prev:before {
+	content: '\f141';
+}
+
+.tm-components-recommended-carousel .slick-next {
+	left: auto;
+	right: 12px;
+}
+
+.tm-components-recommended-carousel .slick-next:before {
+	content: '\f139';
+}
+
+.tm-components-recommended-carousel img {
+	width: 100%;
+	height: auto;
+}

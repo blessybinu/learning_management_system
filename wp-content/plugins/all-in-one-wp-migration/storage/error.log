@@ -1,0 +1,6 @@
+Sep 13 2021 07:03:39
+{"type":8192,"message":"Required parameter $form_id follows optional parameter $form_field_data","file":"C:\\xampp\\htdocs\\lms\\wp-content\\plugins\\user-registration\\includes\\frontend\\class-ur-frontend-form-handler.php","line":178}
+
+Sep 13 2021 07:03:39
+{"type":8192,"message":"Required parameter $form_id follows optional parameter $form_field_data","file":"C:\\xampp\\htdocs\\lms\\wp-content\\plugins\\user-registration\\includes\\frontend\\class-ur-frontend-form-handler.php","line":178}
+

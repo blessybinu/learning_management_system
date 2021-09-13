@@ -1,0 +1,145 @@
+.dashboard-settings-form {
+	textarea[name='tutor_profile_bio'] {
+		height: 100px;
+		width: 100% !important;
+	}
+
+	.form-description {
+		font-size: 13px;
+		line-height: 24px;
+		margin: -5px 0 20px;
+	}
+
+	.form-submit-wrap {
+		margin: 20px 0 0;
+	}
+}
+
+#tutor_profile_cover_photo_editor {
+	#tutor_cover_area {
+		.tutor_cover_deleter {
+			font-size: 14px;
+			line-height: 36px;
+		}
+
+		.tutor_cover_uploader {
+			padding: 0 20px;
+			border-radius: 5px;
+			font-size: 14px;
+			background: $primary-color;
+		}
+	}
+
+	#tutor_pp_option {
+		span {
+			font-size: 14px;
+
+			i {
+				text-align: center;
+				min-width: 20px;
+				font-size: 16px;
+			}
+		}
+	}
+
+	#tutor_photo_meta_area > span > strong {
+		font-weight: 500;
+		color: $heading-color;
+	}
+}
+
+.dashboard-settings-withdraw-form {
+	.dashboard-content-box-title {
+		margin: 0 0 39px;
+	}
+}
+
+.withdraw-method-select-wrap {
+	margin-bottom: 18px;
+
+	.withdraw-method-select {
+
+		.method-name {
+			position: relative;
+			display: inline-block;
+			font-size: 16px;
+			line-height: 26px;
+			font-weight: $heading-font-weight;
+			color: inherit;
+			padding: 0 33px 0 0;
+			margin: 0 0 6px;
+
+			&:after {
+				@extend %NormalTransition;
+				@extend %FontAwesomeSolid;
+				content: '\f058';
+				font-size: 16px;
+				position: absolute;
+				right: 0;
+				top: 5px;
+				color: #6cbd7e;
+				opacity: 0;
+				visibility: hidden;
+			}
+		}
+
+		.method-amount {
+			display: block;
+			font-size: 13px;
+			font-weight: $heading-font-weight;
+			color: $text-lighten-color;
+
+			.amount {
+				font-weight: inherit;
+				font-size: inherit;
+				margin: 0 0 0 5px;
+			}
+
+			.decimals-separator {
+				font-size: 10px;
+			}
+		}
+
+		label {
+			@extend %NormalTransition;
+			border: 1px solid #f4f9ff;
+			background: #f4f9ff;
+			border-radius: 5px;
+			box-shadow: none;
+			padding: 21px 30px;
+			color: #333;
+
+			&:after {
+				display: none;
+			}
+		}
+
+		input:checked + label {
+			.method-name {
+				&:after {
+					opacity: 1;
+					visibility: visible;
+				}
+			}
+		}
+
+		input:checked + label,
+		&:hover label {
+			border-color: #6cbd7e;
+			background: #fff;
+			box-shadow: 0 0 30px rgba(0, 0, 0, .05);
+			color: $primary-color;
+		}
+	}
+}
+
+.withdraw-method-form {
+	> div {
+		padding-bottom: 0;
+	}
+}
+
+.withdraw-account-save-btn-wrap {
+	margin: 30px 0 0;
+	display: none;
+}

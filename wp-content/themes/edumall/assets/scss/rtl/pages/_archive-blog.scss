@@ -1,0 +1,25 @@
+.rtl {
+	.home-blog-by-cat-section {
+		.tm-button {
+			.fa-long-arrow-right:before {
+				content: '\f177';
+			}
+		}
+	}
+
+	&.home-blog-special-layout {
+		.popular-articles {
+			.swiper-slide {
+				padding-right: 0 !important;
+				padding-left: 30px !important;
+			}
+		}
+
+		.home-blog-by-cat-section {
+			.swiper-slide {
+				padding-right: 0 !important;
+				padding-left: 30px !important;
+			}
+		}
+	}
+}

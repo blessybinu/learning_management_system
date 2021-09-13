@@ -1,0 +1,17 @@
+2021-09-06T04:47:20+00:00 CRITICAL Uncaught Exception: Invalid post. in /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/settings/page/manager.php:101
+Stack trace:
+#0 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/base/document.php(1486): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings(Array, NULL)
+#1 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/base/document.php(698): Elementor\Core\Base\Document->save_settings(Array)
+#2 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/kits/manager.php(236): Elementor\Core\Base\Document->update_settings(Array)
+#3 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/kits/manager.php(394): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option('site_name', 'TuTrane')
+#4 /home1/angelsoftwaresol/public_html/lms/wp-includes/class-wp-hook.php(305): Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}('', 'TuTrane')
+#5 /home1/angelsoftwaresol/public_html/lms/w in /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/settings/page/manager.php on line 101
+
+2021-09-06T04:53:47+00:00 CRITICAL Uncaught Exception: Invalid post. in /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/settings/page/manager.php:101
+Stack trace:
+#0 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/base/document.php(1486): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings(Array, NULL)
+#1 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/base/document.php(698): Elementor\Core\Base\Document->save_settings(Array)
+#2 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/kits/manager.php(236): Elementor\Core\Base\Document->update_settings(Array)
+#3 /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/kits/manager.php(398): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option('site_descriptio...', 'Tutoring Beyond...')
+#4 /home1/angelsoftwaresol/public_html/lms/wp-includes/class-wp-hook.php(305): Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}('Just another Wo...', 'Tutoring Beyond. in /home1/angelsoftwaresol/public_html/lms/wp-content/plugins/elementor/core/settings/page/manager.php on line 101
+

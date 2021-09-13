@@ -1,0 +1,1329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Edumall Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-20 08:41+0000\n"
+"PO-Revision-Date: 2021-01-20 08:49+0000\n"
+"Last-Translator: Owen Christ\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: edumall-addons"
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:18
+msgid "&#197;land Islands"
+msgstr ""
+
+#. Description of the plugin
+msgid "A collection of features, widgets and more for Edumall theme."
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:25
+msgid "Add New"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:24
+msgid "Add New FAQ"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:67
+msgid "Add New FAQ Group"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:76
+msgid "Add New Language"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:72
+msgid "Add or remove FAQ Groups"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:79
+msgid "Add or remove languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:17
+msgid "Afghanistan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:19
+msgid "Albania"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:20
+msgid "Algeria"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:63
+msgid "All FAQ Groups"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:71
+msgid "All Languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:21
+msgid "American Samoa"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:22
+msgid "Andorra"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:23
+msgid "Angola"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:24
+msgid "Anguilla"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:25
+msgid "Antarctica"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:26
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:27
+msgid "Argentina"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:28
+msgid "Armenia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:29
+msgid "Aruba"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:30
+msgid "Australia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:31
+msgid "Austria"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:99
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:129
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:169
+msgid "Avatar"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:32
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:83
+msgid "Back to Languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:33
+msgid "Bahamas"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:34
+msgid "Bahrain"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:35
+msgid "Bangladesh"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:36
+msgid "Barbados"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:37
+msgid "Belarus"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:39
+msgid "Belau"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:38
+msgid "Belgium"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:40
+msgid "Belize"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:41
+msgid "Benin"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:42
+msgid "Bermuda"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:43
+msgid "Bhutan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:44
+msgid "Bolivia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:45
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:46
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:47
+msgid "Botswana"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:48
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:49
+msgid "Brazil"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:50
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:51
+msgid "Brunei"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:52
+msgid "Bulgaria"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:53
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:54
+msgid "Burundi"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:55
+msgid "Cambodia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:56
+msgid "Cameroon"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:57
+msgid "Canada"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:58
+msgid "Cape Verde"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:59
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:60
+msgid "Central African Republic"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:61
+msgid "Chad"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:62
+msgid "Chile"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:63
+msgid "China"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:350
+msgid "Choose a language"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:73
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:80
+msgid "Choose from the most used languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:64
+msgid "Christmas Island"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:65
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:66
+msgid "Colombia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:67
+msgid "Comoros"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:68
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:69
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:70
+msgid "Cook Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:71
+msgid "Costa Rica"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:322
+msgid "Course Language"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:82
+msgid "Course Languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:72
+msgid "Croatia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:73
+msgid "Cuba"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:74
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:75
+msgid "Cyprus"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:76
+msgid "Czech Republic"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:77
+msgid "Denmark"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:323
+msgid "Disable"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:325
+msgid ""
+"Disabling this feature will be removed course language from the course page."
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:78
+msgid "Djibouti"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:79
+msgid "Dominica"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:80
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:81
+msgid "Ecuador"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:27
+msgid "Edit FAQ"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:68
+msgid "Edit FAQ Group"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:74
+msgid "Edit Language"
+msgstr ""
+
+#. Name of the plugin
+msgid "Edumall Addons"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:82
+msgid "Egypt"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:83
+msgid "El Salvador"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:84
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:85
+msgid "Eritrea"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:86
+msgid "Estonia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:87
+msgid "Ethiopia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:88
+msgid "Falkland Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:21
+msgid "FAQ"
+msgstr "أسئلة وأجوبة"
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:36
+msgid "faq"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:91
+msgid "faq_groups"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:20
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:23
+msgid "FAQs"
+msgstr "أسئلة وأجوبة"
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:54
+msgid "faqs"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:89
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-visibility.php:71
+msgid "Featured Course ?"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:90
+msgid "Fiji"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:91
+msgid "Finland"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:148
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:212
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:267
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:300
+msgid "Flag"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:92
+msgid "France"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:93
+msgid "French Guiana"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:94
+msgid "French Polynesia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:95
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:37
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:96
+msgid "Gabon"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:97
+msgid "Gambia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:98
+msgid "Georgia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:99
+msgid "Germany"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:100
+msgid "Ghana"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:101
+msgid "Gibraltar"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:102
+msgid "Greece"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:103
+msgid "Greenland"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:104
+msgid "Grenada"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:62
+msgid "Groups"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:105
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:106
+msgid "Guam"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:107
+msgid "Guatemala"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:108
+msgid "Guernsey"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:109
+msgid "Guinea"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:110
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:111
+msgid "Guyana"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:112
+msgid "Haiti"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:113
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:114
+msgid "Honduras"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:115
+msgid "Hong Kong"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://edumall.thememove.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://thememove.com"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:116
+msgid "Hungary"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:117
+msgid "Iceland"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:44
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:74
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:114
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:131
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:186
+msgid "Icon"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:118
+msgid "India"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:119
+msgid "Indonesia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:120
+msgid "Iran"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:121
+msgid "Iraq"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:122
+msgid "Ireland"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:123
+msgid "Isle of Man"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:124
+msgid "Israel"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:125
+msgid "Italy"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:126
+msgid "Ivory Coast"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:127
+msgid "Jamaica"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:128
+msgid "Japan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:129
+msgid "Jersey"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:130
+msgid "Jordan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:131
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:132
+msgid "Kenya"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:133
+msgid "Kiribati"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:134
+msgid "Kuwait"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:135
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:103
+msgid "Languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:136
+msgid "Laos"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:137
+msgid "Latvia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:138
+msgid "Lebanon"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:139
+msgid "Lesotho"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:140
+msgid "Liberia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:141
+msgid "Libya"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:142
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:143
+msgid "Lithuania"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:144
+msgid "Luxembourg"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:145
+msgid "Macao"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:147
+msgid "Madagascar"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:148
+msgid "Malawi"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:149
+msgid "Malaysia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:150
+msgid "Maldives"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:151
+msgid "Mali"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:152
+msgid "Malta"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:153
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:154
+msgid "Martinique"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:155
+msgid "Mauritania"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:156
+msgid "Mauritius"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:157
+msgid "Mayotte"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:158
+msgid "Mexico"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:159
+msgid "Micronesia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:160
+msgid "Moldova"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:161
+msgid "Monaco"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:162
+msgid "Mongolia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:163
+msgid "Montenegro"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:164
+msgid "Montserrat"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:165
+msgid "Morocco"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:166
+msgid "Mozambique"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:167
+msgid "Myanmar"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:168
+msgid "Namibia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:169
+msgid "Nauru"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:170
+msgid "Nepal"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:171
+msgid "Netherlands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:172
+msgid "New Caledonia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:26
+msgid "New FAQ"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:66
+msgid "New FAQ Group Name"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:77
+msgid "New Language Name"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:173
+msgid "New Zealand"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:174
+msgid "Nicaragua"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:175
+msgid "Niger"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:176
+msgid "Nigeria"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:177
+msgid "Niue"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:81
+msgid "No languages found."
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:178
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:180
+msgid "North Korea"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:146
+msgid "North Macedonia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:179
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:181
+msgid "Norway"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:76
+msgid "Not Found"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:31
+msgid "Not found"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:32
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:182
+msgid "Oman"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:183
+msgid "Pakistan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:184
+msgid "Palestinian Territory"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:185
+msgid "Panama"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:186
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:187
+msgid "Paraguay"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:64
+msgid "Parent FAQ Group"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:65
+msgid "Parent FAQ Group:"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:22
+msgid "Parent FAQ:"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:188
+msgid "Peru"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:189
+msgid "Philippines"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:190
+msgid "Pitcairn"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:191
+msgid "Poland"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:74
+msgid "Popular FAQ Groups"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:70
+msgid "Popular Languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:192
+msgid "Portugal"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:18
+msgctxt "Post Type General Name"
+msgid "FAQs"
+msgstr "أسئلة وأجوبة"
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:19
+msgctxt "Post Type Singular Name"
+msgid "FAQ"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:193
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:194
+msgid "Qatar"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:56
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:90
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:141
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:160
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:203
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:228
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:111
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:145
+msgid "Remove image"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:195
+msgid "Reunion"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:196
+msgid "Romania"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:197
+msgid "Russia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:198
+msgid "Rwanda"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:208
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:199
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:200
+msgid "Saint Helena"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:201
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:202
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:204
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:203
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:205
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:206
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:262
+msgid "Samoa"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:207
+msgid "San Marino"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:209
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:30
+msgid "Search FAQ"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:75
+msgid "Search FAQ Groups"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:69
+msgid "Search Languages"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:210
+msgid "Senegal"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:71
+msgid "Separate FAQ Groups with commas"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:78
+msgid "Separate languages with commas"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:211
+msgid "Serbia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:212
+msgid "Seychelles"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:213
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:214
+msgid "Singapore"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:215
+msgid "Slovakia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:216
+msgid "Slovenia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:217
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:218
+msgid "Somalia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:219
+msgid "South Africa"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:220
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:221
+msgid "South Korea"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:222
+msgid "South Sudan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:223
+msgid "Spain"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:58
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:75
+msgid "Speakers"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:224
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:225
+msgid "Sudan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:226
+msgid "Suriname"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:227
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:228
+msgid "Swaziland"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:229
+msgid "Sweden"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:230
+msgid "Switzerland"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:231
+msgid "Syria"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:232
+msgid "Taiwan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:233
+msgid "Tajikistan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:234
+msgid "Tanzania"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:67
+msgctxt "taxonomy general name"
+msgid "Course Language"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:60
+msgctxt "Taxonomy General Name"
+msgid "FAQ Groups"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:60
+msgctxt "taxonomy general name"
+msgid "Speakers"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:61
+msgctxt "Taxonomy Singular Name"
+msgid "FAQ Group"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:68
+msgctxt "taxonomy singular name"
+msgid "Language"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:235
+msgid "Thailand"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeMove"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:129
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:187
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:263
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:286
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:236
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:237
+msgid "Togo"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:238
+msgid "Tokelau"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:239
+msgid "Tonga"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:240
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:241
+msgid "Tunisia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:242
+msgid "Turkey"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:243
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:244
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:245
+msgid "Tuvalu"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:246
+msgid "Uganda"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:247
+msgid "Ukraine"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:248
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:249
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:250
+msgid "United States (US)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:251
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:28
+msgid "Update FAQ"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:69
+msgid "Update FAQ Group"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:75
+msgid "Update Language"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:54
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-category.php:87
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:139
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:158
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:200
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-language.php:225
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:109
+#: ../../../../../../repos/edumall/src/edumall-addons/wp-events-manager/event-speakers.php:142
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:252
+msgid "Uruguay"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:253
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:254
+msgid "Vanuatu"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:255
+msgid "Vatican"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:256
+msgid "Venezuela"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:257
+msgid "Vietnam"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:29
+msgid "View FAQ"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/includes/class-cpt-faqs.php:70
+msgid "View FAQ Group"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:258
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:259
+msgid "Virgin Islands (US)"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:260
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:261
+msgid "Western Sahara"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:263
+msgid "Yemen"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/tutor/course-visibility.php:76
+msgid "Yes"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:264
+msgid "Zambia"
+msgstr ""
+
+#: ../../../../../../repos/edumall/src/edumall-addons/i18n/countries.php:265
+msgid "Zimbabwe"
+msgstr ""

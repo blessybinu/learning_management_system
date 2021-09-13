@@ -1,0 +1,694 @@
+.tutor-lessons.ui-sortable a.tutor-zoom-meeting-modal-open-btn {
+    flex-grow: 1;
+    -webkit-box-flex: 1;
+}
+.zoom-meetings-container .tutor-zoom-meeting-item div p span {
+    display: block;
+}
+.tutor-zoom-meeting-modal-wrap .tutor-modal-content {
+    max-width: 660px !important;
+}
+.tutor-zoom-meeting-modal-wrap .modal-container {
+    background: #f1f1f1;
+    padding: 0;
+}
+.tutor-zoom-meeting-modal-wrap .modal-close-btn {
+    top: 8px;
+    right: 5px !important;
+    background: #fff !important;
+    color: #3a3d42 !important;
+    font-size: 16px !important;
+}
+.meeting-modal-form-wrap .tutor-quiz-builder-group {
+    padding: 20px 25px 0;
+    margin-bottom: 0;
+}
+.meeting-modal-form-wrap .tutor-quiz-builder-group .tutor-icon-calendar {
+    top: 12px;
+    right: 10px;
+}
+.meeting-modal-form-wrap h4 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 0 10px;
+}
+.tutor-zoom-meeting-modal-wrap .modal-footer {
+    background: #fff;
+    padding: 25px 25px 0;
+    margin-top: 25px;
+}
+
+.lesson-preview-title .zoom-icon, .tutor-course-lesson .zoom-icon {
+    width: 20px;
+    margin-left: -2px;
+}
+.tutor-zoom-lesson-countdown > span {
+    padding: 5px 10px;
+    border: 1px solid #DCDBDC;
+    border-radius: 3px;
+    font-weight: 500;
+    margin-left: 3px;
+}
+.tutor-zoom-lesson-countdown > span > span {
+    width: auto;
+    font-weight: 300;
+}
+
+.tutor-zoom-label {
+    background: #ED9700;
+    color: #fff;
+    padding: 0px 5px;
+    margin-left: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 2px;
+}
+.tutor-zoom-live-label {
+    background: #F44337;
+}
+
+/* Single course page css */
+.tutor-course-topic.tutor-zoom-meeting .tutor-course-title {
+    display: flex;
+    align-items: center;
+    background: #FBFBFB;
+    padding: 20px 30px;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-detail {
+    flex-grow: 1;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-detail h3 {
+    display: flex;
+    align-items: center;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-detail div {
+    display: flex;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-detail div p {
+    margin: 10px 40px 0 0px;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-detail div p span {
+    padding-left: 10px;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-detail div p span {
+    padding-left: 10px;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-detail .tutor-zoom-label {
+    padding: 2px 5px;
+}
+.tutor-course-topic.tutor-zoom-meeting .tutor-zoom-meeting-toggle-icon {
+    margin-top: 8px;
+    font-size: 22px;
+    color: #3E64DE;
+}
+.tutor-course-topic.tutor-zoom-meeting.tutor-active .tutor-icon-angle-right:before {
+    content: "\e920";
+}
+.tutor-course-lessons.tutor-zoom-meeting-session {
+    padding: 30px;
+    background: #fff;
+    border-top: 1px solid #DCE4E6;
+}
+.tutor-course-lessons.tutor-zoom-meeting-session .tutor-zoom-meeting-countdown {
+    margin-bottom: 25px;
+}
+.tutor-course-lessons.tutor-zoom-meeting-session .session-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tutor-course-lessons.tutor-zoom-meeting-session .session-link p {
+    margin: 0;
+}
+.tutor-course-lessons.tutor-zoom-meeting-session .session-link a {
+    padding: 12px 40px;
+}
+
+/* Single meeting page css  */
+.tutor-zoom-meeting-content {
+    height: 100%;
+    padding: 86px 100px;
+    background: #fff;
+    border-left: 1px solid #e8eff1;
+    margin-top: -50px;
+}
+.tutor-zoom-meeting-content h2 {
+    font-weight: 500;
+    font-size: 30px;
+    color: #000;
+}
+.tutor-zoom-meeting-content p {
+    font-size: 16px;
+}
+.zoom-meeting-countdown-wrap {
+    max-width: 640px;
+}
+.zoom-meeting-content-wrap {
+    max-width: 860px;
+}
+.tutor-zoom-meeting-countdown {
+    display: flex;
+    margin-left: -25px;
+    margin-bottom: 50px;
+}
+.tutor-zoom-meeting-countdown div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: calc(25% - 25px);
+    height: 150px;
+    border: 1px solid #DCDBDC;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: 25px;
+}
+.tutor-zoom-join-button-wrap {
+    display: flex;
+    margin-left: -25px;
+    margin-bottom: 50px;
+}
+.tutor-zoom-join-button-wrap a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(50% - 25px);
+    margin-left: 25px;
+}
+.tutor-zoom-meeting-countdown div h3 {
+    font-weight: 500;
+    font-size: 80px;
+    color: #000;
+    line-height: 80px;
+}
+.tutor-zoom-meeting-countdown div p {
+    font-weight: normal;
+    font-size: 16px;
+    margin: 0;
+}
+.tutor-zoom-meeting-content .meeting-title {
+    margin-bottom: 25px;
+}
+.tutor-zoom-meeting-content .meeting-details div {
+    display: flex;
+}
+.tutor-zoom-meeting-content .meeting-details div span {
+    width: 160px;
+}
+.tutor-zoom-meeting-content .meeting-details div p {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 16px;
+}
+.tutor-zoom-meeting-expired-msg-wrap {
+    max-width: 625px;
+    margin: 0 auto;
+}
+.tutor-zoom-meeting-expired-msg-wrap .msg-expired-section, .tutor-zoom-meeting-expired-msg-wrap .meeting-details-section {
+    border: 1px solid #DCDBDC;
+    border-radius: 6px;
+    padding: 25px;
+}
+.tutor-zoom-meeting-expired-msg-wrap .msg-expired-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.tutor-zoom-meeting-session .msg-expired-section {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.tutor-zoom-meeting-session .msg-expired-section img {
+    max-width: 146px;
+}
+.tutor-zoom-meeting-expired-msg-wrap .msg-expired-section img, .tutor-zoom-meeting-session .msg-expired-section img {
+    padding-right: 25px;
+}
+.tutor-zoom-meeting-expired-msg-wrap .msg-expired-section p, .tutor-zoom-meeting-expired-msg-wrap .meeting-details-section > div p, .tutor-zoom-meeting-session .msg-expired-section p {
+    margin: 0;
+}
+.tutor-zoom-meeting-expired-msg-wrap .meeting-details-section {
+    display: block;
+}
+.tutor-zoom-meeting-expired-msg-wrap .meeting-details-section > div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tutor-zoom-meeting-expired-msg-wrap .meeting-details-section > div p {
+    font-weight: 500;
+    color: #000;
+}
+.sidebar-single-zoom-meeting-a .zoom-icon {
+    width: 20px;
+    margin-left: -2px;
+}
+
+/**
+* Frontend specific styles
+*
+* @since 1.9.3
+*/
+.tutor-zoom-frontend .input-area {
+    padding: 25px 0px;
+}
+.tutor-zoom-frontend .tutor-zoom-settings-card,
+.tutor-zoom-frontend .tutor-zoom-accordion-item {
+    border: 1px solid #e3e3e3;
+}
+.tutor-zoom-frontend .tutor-zoom-settings {
+    max-width: 100%;
+}
+
+.tutor-zoom-frontend .tutor-zoom-form-container {
+    background: url() ;
+}
+.tutor-zoom-frontend .tutor-zoom-frontend-buttons img {
+    height: 15px;
+    width: 15px;
+    margin-right: 2px;
+}
+.tutor-zoom-frontend .tutor-btn {
+    padding: 8px 20px !important;
+}
+.tutor-zoom-frontend .tutor-btn.border-black {
+    border: 1px solid #757C8E;
+    color: #757C8E;
+}
+.tutor-zoom-frontend .tutor-dashboard-announcement-table th:first-child {
+    padding: 0px;
+}
+/* Settings page css */
+.tutor-zoom-settings {
+    max-width: 730px;
+    margin: auto;
+}
+.tutor-zoom-settings-card {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 20px 25px;
+    margin-bottom: 15px;
+}
+.tutor-zoom-settings-card .card-icon {
+    margin-right: 25px;
+}
+.tutor-zoom-settings-card .card-content p {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+    color: #212327;
+}
+.tutor-zoom-settings-card .card-content span {
+    font-size: 13px;
+    color: #565656;
+    margin: 0;
+}
+.tutor-zoom-settings-card .card-radio {
+    padding: 20px 0 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.tutor-zoom-settings-card .btn-switch {
+    height: 24px;
+}
+.tutor-zoom-settings-card .btn-slider {
+    background: #A3A3A3;
+}
+.tutor-zoom-settings-card .btn-slider:before {
+    bottom: 3px;
+    height: 18px;
+    left: 3px;
+    width: 18px;
+}
+.tutor-zoom-settings-card .btn-switch input:checked + .btn-slider {
+    background: #3E64DE;
+}
+.tutor-zoom-settings-card .card-radio>.single-radio {
+    margin-right: 50px;
+}
+.tutor-zoom-settings-card .card-radio>.single-radio:last-child {
+    margin-right: 0px;
+}
+
+/* Accordion css */
+.tutor-zoom-accordion-item {
+    background: #fff;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+.tutor-zoom-accordion-panel-handler {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.tutor-zoom-accordion-panel-handler {
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #000;
+}
+.tutor-zoom-accordion-panel-handler i {
+    padding: 12px;
+    background: #eaedfc;
+    border-radius: 50%;
+    margin-right: 25px;
+    color: #1973AA;
+}
+.tutor-zoom-accordion-body {
+    display: none;
+    padding: 0 15px 15px;
+}
+.tutor-zoom-accordion-body p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 15px 70px;
+    color: #5B616F;
+}
+
+.tutor-dropdown-menu.small-card.bg-white {
+    min-width: 273px;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #CDCFD5;
+    border-radius: 6px;
+    z-index: 2;
+}
+.zoom-info-dropdown li {
+    padding: 10px 20px 10px 20px !important;   
+}
+.zoom-info-dropdown::before {
+    background: none;
+}
+.zoom-info-dropdown li:hover {
+    background: none;
+}
+.zoom-info-dropdown li:last-child {
+    border-top: 1px solid #CDCFD5;
+}
+.zoom-info-dropdown label {
+    color: #757C8E;
+    font-weight: 400;
+    font-size: 13px;
+}
+.zoom-info-dropdown span {
+    color: #212327;
+    font-weight: 500;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+.zoom-info-dropdown span {
+    word-break: break-all;
+}
+.zoom-info-dropdown span i {
+    cursor: pointer;
+}
+.zoom-info-dropdown span i.copied {
+    background: #F6F8FD;
+    padding: 10px;
+    border-radius: 100%;
+    color: #3E64DE;
+    margin-right: -10px;
+}
+.tutor-zoom-frontend .tutor-dropdown-menu {
+    z-index: 2;
+}
+/*set api page css*/
+.zoom-configure-wrapper {
+    display: flex;
+    align-items: flex-start;
+    background: #F6F8FD;
+    border: 1px solid #E9EDFB;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.tutor-zoom-frontend .input-area h3 {
+    margin-bottom: 16px;
+}
+.zoom-configure-wrapper i {
+    font-size: 34px;
+    color: #3E64DE;    
+}
+.tutor-zoom-icon-content-wrapper {
+    display: flex;
+    padding: 35px 25px 0 25px;
+}
+.zoom-configure-wrapper .zoom-content {
+    padding-left: 13px;
+}
+.zoom-configure-wrapper .zoom-content h3 {
+    font-weight: 500;
+    font-size: 24px;
+    color: #000;
+    margin-top: -4px !important;
+}
+.zoom-configure-wrapper .zoom-content p {
+    font-weight: 400;
+    font-size: 15px;
+    color: #757C8E;
+    line-height: 24px;
+}
+.zoom-configure-wrapper .zoom-content p a {
+    text-decoration: none;
+}
+.zoom-configure-wrapper .zoom-image img {
+    margin-top: -50px;
+}
+.tutor-zoom-form-container .input-area h3 {
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(8, 4, 4);
+}
+#tutor_zoom_api_key, 
+#tutor_zoom_api_secret {
+    max-width: 520px !important;
+}
+.tutor-zoom-frontend-buttons .tutor-btn.bordered-btn.button-disabled {
+    border: 1px solid #9CA0AC;
+    color: #9CA0AC; 
+}
+
+.tutor-zoom-frontend-buttons .tutor-btn.bordered-btn.button-disabled:hover {
+    background-color: transparent !important;
+    color: #9CA0AC !important;
+    cursor: auto; 
+}
+.tutor-zoom-frontend-buttons .tutor-btn.bordered-btn.button-disabled i{
+    color: #9CA0AC; 
+}
+.set-api-buttons {
+    display: flex;
+    column-gap: 30px;
+}
+.tutor-button.tutor-button-zoom-api-check {
+    background-color: #fff !important; 
+    color: #1b52d8 !important;
+}
+.tutor-button.tutor-button-zoom-api-check.button-disable {
+    border: 1px solid #9CA0AC;
+    color: #9CA0AC !important; 
+    background-color: #fff !important;
+}
+.tutor-button.tutor-button-zoom-api-check.button-disable:hover {
+    pointer-events: none;
+}
+/*zoom data not found css*/
+.tutor-zoom-data-found {
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+.tutor-zoom-data-found img {
+    margin-bottom: 30px;
+}
+.tutor-zoom-data-found p {
+    font-size: 24px;
+    font-weight: 400;
+}
+.tutor-zoom-frontend-buttons li a {
+    min-width: 150px;
+    display: flex;
+    justify-content: center;
+    border-radius: 6px !important;
+    text-decoration: none;
+}
+.tutor-zoom-frontend-buttons li a.button-fill {
+    background-color: #3E64DE !important;
+    border: 1px solid #3E64DE;
+    color: #fff;
+}
+.tutor-zoom-frontend-buttons li a.button-outlined {
+    border: 1px solid #3E64DE;
+    color: #3E64DE;
+}
+.tutor-btn.border-black i.tutor-icon-angle-down {
+    font-size: 10px;
+    padding: 3px 0 0 5px;
+}
+
+/*front end pagination*/
+.tutor-zoom-frontend .tutor-list-footer {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #CDCFD5;
+    border-radius: 6px;
+    padding: 13px 20px;
+    background-color: #fff;
+}
+.tutor-zoom-frontend .tutor-list-footer a {
+    text-decoration: none;
+}
+.tutor-list-footer .zoom-pagination {
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    font-weight: 500;
+    font-size: 15px;
+}
+.tutor-list-footer .zoom-pagination a.next, .tutor-list-footer .zoom-pagination a.prev{
+    background: #3E64DE;
+    color: white;
+    padding: 2px 12px;
+    border-radius: 6px;
+    font-size: 10px;
+}
+.tutor-list-footer .zoom-pagination a.prev {
+    margin-right: 40px;
+}
+.tutor-list-footer .zoom-pagination a.next {
+    margin-left: 40px;
+}
+.tutor-zoom-field-icon-wrapper {
+    position: relative;
+}
+button.tutor-zoom-search-action {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    bottom: 0;
+    right: 0;
+    border: 0;
+    background: transparent;
+    color: #3e64de;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+}
+.tutor-form-group.course-select-box{
+    flex: 40% !important;
+}
+th .tutor-zoom-datetime-sorting {
+    display: flex;
+    padding-left: 30px;
+    align-items: baseline;
+}
+.tutor-zoom-content-wrap.tutor-zoom-frontend-content {
+    max-width: 280px;
+}
+
+
+/*frontend course builder time picker css*/
+.ui-timepicker-div dt {
+    line-height: 15px !important;
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+.ui-timepicker-div dl dd {
+    padding: 0px !important; 
+}
+.ui-datepicker-buttonpane.ui-widget-content {
+    color: #555555 !important;
+    font-size: 13px !important;
+}
+.modal-close-wrap a {
+    text-decoration: none;
+}
+/*tutor zoom frontend dashboard pages css end*/
+
+@media only screen and (max-device-width: 812px) { 
+    .tutor-zoom-meeting-content {
+        padding: 15px;
+    }
+    .tutor-zoom-meeting-expired-msg-wrap .msg-expired-section {
+        flex-direction: column;
+    }
+    .tutor-zoom-meeting-expired-msg-wrap .msg-expired-section img, .tutor-zoom-meeting-session .msg-expired-section img {
+        padding-bottom: 25px;
+    }
+    .tutor-zoom-meeting-countdown div {
+        height: 80px;
+    }
+    .tutor-zoom-meeting-countdown div h3 {
+        font-weight: 500;
+        font-size: 36px;
+        color: #000;
+        line-height: 36px;
+    }
+    .tutor-zoom-meeting-countdown div p {
+        font-size: 14px;
+    }
+}
+
+/*----------------------------------
+    Component containers
+----------------------------------*/
+
+.ui-widget-content a {
+	color: #222222;
+}
+.ui-widget-header {
+	padding-top: 5px;
+	color: #222222;
+	font-weight: bold;
+}
+.ui-widget-header a {
+	color: #222222;
+}
+
+/* Interaction states
+----------------------------------*/
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	font-weight: normal;
+    color: #555555;
+    padding: 0;
+}
+.ui_tpicker_hour .ui-slider-handle,
+.ui_tpicker_minute_slider .ui-slider-handle {
+	border: 1px solid #d3d3d3;
+    background: #e6e6e6;
+}
+.ui-datepicker-buttonpane {
+    border: none;
+}
+.ui-datepicker-buttonpane button {
+  
+    margin: 5px !important;
+    padding: 5px !important;
+}
+/* Interaction Cues
+----------------------------------*/
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-header .ui-state-highlight {
+	border: 1px solid #fcefa1 /*{borderColorHighlight}*/;
+	background: #fbf9ee;
+	color: #363636;
+}
+
+@media only screen and (max-width: 768px) {
+    .zoom-configure-wrapper {
+        height: auto;
+    }
+    .zoom-configure-wrapper .zoom-image img {
+        margin: 0px;
+    }
+}

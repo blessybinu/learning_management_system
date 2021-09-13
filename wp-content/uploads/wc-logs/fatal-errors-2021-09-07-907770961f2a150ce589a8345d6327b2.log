@@ -1,0 +1,30 @@
+2021-09-07T10:49:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php:1056
+Stack trace:
+#0 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php(1082): Edumall_Woo->get_mini_cart()
+#1 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/template-parts/header/header.php(34): Edumall_Woo->render_mini_cart()
+#2 /home1/angelsoftwaresol/public_html/lms/wp-includes/template.php(772): require('/home1/angelsof...')
+#3 /home1/angelsoftwaresol/public_html/lms/wp-includes/template.php(716): load_template('/home1/angelsof...', false, Array)
+#4 /home1/angelsoftwaresol/public_html/lms/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#5 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/class-functions.php(73): get_template_part('template-parts/...', '01', Array)
+#6 /home1/angelsoftwaresol/public_h in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php on line 1056
+
+2021-09-07T11:01:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php:1056
+Stack trace:
+#0 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php(1082): Edumall_Woo->get_mini_cart()
+#1 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/template-parts/header/header.php(34): Edumall_Woo->render_mini_cart()
+#2 /home1/angelsoftwaresol/public_html/lms/wp-includes/template.php(772): require('/home1/angelsof...')
+#3 /home1/angelsoftwaresol/public_html/lms/wp-includes/template.php(716): load_template('/home1/angelsof...', false, Array)
+#4 /home1/angelsoftwaresol/public_html/lms/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#5 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/class-functions.php(73): get_template_part('template-parts/...', '01', Array)
+#6 /home1/angelsoftwaresol/public_h in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php on line 1056
+
+2021-09-07T11:02:02+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php:1056
+Stack trace:
+#0 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php(1082): Edumall_Woo->get_mini_cart()
+#1 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/template-parts/header/header.php(34): Edumall_Woo->render_mini_cart()
+#2 /home1/angelsoftwaresol/public_html/lms/wp-includes/template.php(772): require('/home1/angelsof...')
+#3 /home1/angelsoftwaresol/public_html/lms/wp-includes/template.php(716): load_template('/home1/angelsof...', false, Array)
+#4 /home1/angelsoftwaresol/public_html/lms/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#5 /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/class-functions.php(73): get_template_part('template-parts/...', '01', Array)
+#6 /home1/angelsoftwaresol/public_h in /home1/angelsoftwaresol/public_html/lms/wp-content/themes/edumall/framework/woocommerce/class-woo.php on line 1056
+

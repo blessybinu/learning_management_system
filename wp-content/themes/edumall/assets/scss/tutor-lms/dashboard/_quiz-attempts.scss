@@ -1,0 +1,84 @@
+.dashboard-quiz-attempt-history {
+	td {
+		width: auto;
+	}
+	.col-course-info {
+		width: 470px;
+	}
+
+	.col-correct-answer,
+	.col-incorrect-answer {
+		width: 150px;
+	}
+
+	.col-student {
+		width: 220px;
+	}
+
+	.col-earned-marks {
+		width: 120px;
+	}
+
+	.col-result {
+		width: 120px;
+	}
+
+	.col-detail-link {
+		width: 100px;
+	}
+
+	.course-title {
+		font-size: 15px;
+		line-height: 26px;
+		margin: 0 0 8px;
+
+		a {
+			color: inherit;
+
+			&:hover {
+				color: $primary-color;
+			}
+		}
+	}
+}
+
+.quiz-attempt-detail-link {
+	color: $primary-color;
+}
+
+.dashboard-quiz-attempt-metas {
+	display: flex;
+	flex-wrap: wrap;
+
+	.meta-item {
+		margin: 0 25px 0 0;
+
+		&:last-child {
+			margin: 0;
+		}
+	}
+
+	.meta-name {
+		font-weight: $heading-font-weight;
+		color: #9aa5b3;
+	}
+
+	.meta-value {
+		font-weight: $heading-font-weight;
+		color: $heading-color;
+	}
+}
+
+.prev-btn {
+	color: $text-color;
+
+	span {
+		color: $primary-color;
+	}
+}
+
+/*.tutor-quiz-attempt-review-wrap {
+	.attempt-answers-header {
+		background: none;
+	}
+}*/

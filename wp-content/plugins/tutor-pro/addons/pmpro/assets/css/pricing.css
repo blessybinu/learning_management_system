@@ -1,0 +1,144 @@
+.tutor-pmpro-single-course-pricing {
+    border: 1px solid #CDCFD5;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 15px;
+}
+
+.tutor-pmpro-single-course-pricing>h3 {
+    color: var(--tutor-primary-button-color);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.tutor-pmpro-single-course-pricing>small {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #5B616F;
+}
+
+.tutor-pmpro-single-course-pricing>label{
+    border: 1px solid #CDCFD5;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 15px;
+    margin: 15px 0;
+    display: block !important;
+    cursor: pointer;
+}
+
+.tutor-pmpro-single-course-pricing input {
+    display: none;
+}
+
+.tutor-pmpro-single-course-pricing input:checked+label {
+    background-color: #F6F8FD;
+    border: 1px solid #3E64DE;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.tutor-pmpro-single-course-pricing input:not(:checked)+label:hover {
+    background-color: #fbfcff;
+}
+
+.tutor-pmpro-single-course-pricing input:not(:checked)+label .tutor-pmpro-level-desc {
+    display: none;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-circle {
+    border: 2px solid #C0C3CB;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: block;
+    margin-top: 6px;
+    margin-right: 7px;
+}
+
+.tutor-pmpro-single-course-pricing input:checked+label .tutor-pmpro-circle {
+    background: #3E64DE;
+    width: 25px;
+    height: 25px;
+    background: white;
+    margin-top: 3px;
+    border: 7px solid #3E64DE;
+}
+
+.tutor-pmpro-single-course-pricing label.tutor-pmpro-level-highlight {
+    background-image: url(../images/star-marked.svg);
+    background-repeat: no-repeat;
+    background-position: calc(100% + 1px) 0;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-header {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-header h4 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #41454F;
+
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-header>div:nth-child(2) {
+    flex: 1;
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    -o-flex: 1;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-header b{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 34px;
+    color: #212327;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-header b + small {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    color: #757C8E;
+    margin-left: 5px;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-desc p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #5B616F;
+    margin: 10px 0;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-desc a{
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    display: block;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-desc>div {
+    text-align: center;
+}
+
+.tutor-pmpro-single-course-pricing .tutor-pmpro-level-desc span {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #757C8E;
+    margin: 15px 0 0;
+    display: inline-block;
+}

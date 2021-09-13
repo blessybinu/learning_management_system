@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="css/ion.rangeSlider.css">
+  <link rel="stylesheet" type="text/css" href="css/ion.rangeSlider.skinFlat.css">
+  <style type="text/css">
+  	.irs-hidden-input{
+  		display: block !important;
+  		position: static !important;
+  		width: auto !important;
+  		height: auto !important;
+  		font-size: inherit !important;
+  		z-index: 999 !important;
+  		border: 1px solid #ccc !important;
+  	}
+  </style>
+</head>
+	
+<body>
+  <input type="text" id="range" value="1000000" />
+  <input type="text" id="range2" data-type="double" value="30;70" />
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script type="text/javascript" src="js/ion-rangeSlider/ion.rangeSlider.js"></script>
+  <script type="text/javascript">
+  $('#range').ionRangeSlider({});
+    /*grid: true,
+    min: 1000,
+    max: 1000000,
+    
+    step: 1000,
+  */
+
+
+  $('#range2').ionRangeSlider({});
+    //grid: true,
+    //min: 1000,
+    //max: 1000000,
+    //step: 1000,
+  
+  </script>
+</body>
+
+</html>
